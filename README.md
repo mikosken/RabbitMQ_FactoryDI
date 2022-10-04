@@ -12,6 +12,12 @@ The point of this project is not to be a complete package with all bells and
 whistles, as that would require a concerted maintenance effort. But rather to
 be a very small, simple to use, and simple to extend starting point.
 
+## License
+
+All applicable code is released under the MIT License, see file `LICENSE`.
+Feel free to freely use, spread, modify, or extend any or all of this code as
+you see fit.
+
 ## Getting started
 
 If you wish to quickly use this code in your own project:
