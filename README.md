@@ -48,7 +48,9 @@ All relevant files required to implement this in other projects are stored under
 `/MQFactory`, plus an example configuration in appsettings.json under the
 section "MessageQueues".
 
-![MessageApiController]()
+### Example controller
+
+![MessageApiController](https://raw.githubusercontent.com/mikosken/RabbitMQ_FactoryDI/master/Swagger_UI.png)
 
 ## Build and continue development of this project
 
